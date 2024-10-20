@@ -17,7 +17,7 @@
 	|Entornos de Desarrollo|Itineraio Personal para la Empleabilidad|
 	|Inglés Profesional|Digitalización Aplicada a los Sectores Productivos|
 	
-	[![más información](./image/todofp.jpg)](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html "página de DAW en todofp.es")
+	[![más información](./image/todofp.jpg)]](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html "página de DAW en todofp.es")
 	
 	
 	
