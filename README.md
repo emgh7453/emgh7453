@@ -33,28 +33,10 @@
 	
 - ##  🏃‍ Antes de llegar a este modulo he realizado bastantes **Cursos** 
 	
-	- ***Sistemas Operativos***
-		- *Administración Avanzada de **Windows***
-		- ***Administración de Sistemas** y Servicios de Infraestructura*
-		- *Bash Interprete de comandos de **Linux***
-		- *Preparación Certificación **LPIC-1***
-		- *Introducción a la **CiberSeguridad***
-		- Administración de VmWare
-		- Entornos Virtuales Hyper-V, VirtualBox y VmWare
-		
-	- ***Lenguajes de Programación***
-		- *Iniciación a **HTML**,**CSS** y **Javascript***
-		- *Introducción a **GitHub***
-		- *Programación en **C***
-		- *Programación en **Visual Basic 6.0***
-		
-	- ***Bases de Datos***
-		- *Programación en **ABAP/SAP***
-		- *Programación en **PL/SQL***
-		- *Bases de Datos **SQL***
-		- *Bases de Datos **Oracle***
-	- ***y algunos más..***
+	![Esquema de Cursos](./images/cursosenmarkmap.jpg)
+	Hecho en [![markmap](./images/logo_markmap.jpg)](https://markmap.js)
 	
+		
 - ## 💞️ En este curso vamos a aprender a usar
 
 
@@ -79,9 +61,11 @@
 
 - ## 📫 Algunas Citas Inspiradoras 
 	
-	> ### "HTM..., qué?
 	> ### "Renovarse o morir...."
+	> ### "No es *Magía*,  son *Datos*"
+	> ### "HTM..., qué?
 	> ### "En formacion continua o en continua formación, tu decides"
+
 	
 	
 	
@@ -104,5 +88,29 @@ You can click the Preview link to take a look at your changes..
 
 
 [más información](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html "página de DAW en todofp.es")
---->
 
+
+Listado de cursos:
+	
+	- ***Sistemas Operativos***
+		- *Administración Avanzada de **Windows***
+		- ***Administración de Sistemas** y Servicios de Infraestructura*
+		- *Bash Interprete de comandos de **Linux***
+		- *Preparación Certificación **LPIC-1***
+		- *Introducción a la **CiberSeguridad***
+		- Administración de VmWare
+		- Entornos Virtuales Hyper-V, VirtualBox y VmWare
+		
+	- ***Lenguajes de Programación***
+		- *Iniciación a **HTML**,**CSS** y **Javascript***
+		- *Introducción a **GitHub***
+		- *Programación en **C***
+		- *Programación en **Visual Basic 6.0***
+		
+	- ***Bases de Datos***
+		- *Programación en **ABAP/SAP***
+		- *Programación en **PL/SQL***
+		- *Bases de Datos **SQL***
+		- *Bases de Datos **Oracle***
+	- ***y algunos más..***
+--->
