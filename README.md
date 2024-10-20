@@ -10,14 +10,14 @@
 	Estoy matriculado en el primer curso del **Grado Superior de Desarrollo de Aplicaciones WEB** tambien conocido por sus siglas *DAW*
 - ## 🎓 Estas son las **Asignaturas** que hay en **Plan de Estudios 2024-2025** en el primer curso de *DAW* 
 
-	| Asignaturas 1º DAW Curso 2024-25|
+	| Asignaturas 1º DAW | Curso Académico 2024/25|
 	|---|---|
 	|Sistemas informaticos|Programación|
 	|Bases de datos|Lenguajes de Marcas y Sistemas de Gestion de Información|
 	|Entornos de Desarrollo|Itineraio Personal para la Empleabilidad|
 	|Inglés Profesional|Digitalización Aplicada a los Sectores Productivos|
 	
-	[![más información](./image/todofp.jpg)]](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html "página de DAW en todofp.es")
+	[![más información](./images/todofp.jpg)]](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html "página de DAW en todofp.es")
 	
 	
 	
