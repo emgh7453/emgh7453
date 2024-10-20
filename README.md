@@ -5,8 +5,8 @@
 
 	Soy  un estudiante del [IES "Los Albares de Cieza"](https://www.ieslosalbares.es/  "WEB IES Los Albares de Cieza") es su extensión [CIFP "La Conservera"](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza?authuser=0 "Web CIFP La Conservera")
 	,situado la locacidad de Cieza que pertenece a la Region de Murcia
-	[![Region de Murcia](/images/regionmurcia.jpg)](https://www.google.es/maps/place/Regi%C3%B3n+de+Murcia,+Murcia/@38.0400936,-3.996701,8z/data=!3m1!4b1!4m6!3m5!1s0xd631a7cd794aecd:0x14ce33f54754d822!8m2!3d38.1398141!4d-1.366216!16zL20vMGo0eHo?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D "Enlace Google Maps 'Region de Murcia'")
-	
+	[![Region de Murcia](./images/regionmurcia.jpg)](https://www.google.es/maps/place/Regi%C3%B3n+de+Murcia,+Murcia/@38.0400936,-3.996701,8z/data=!3m1!4b1!4m6!3m5!1s0xd631a7cd794aecd:0x14ce33f54754d822!8m2!3d38.1398141!4d-1.366216!16zL20vMGo0eHo?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D "Enlace Google Maps 'Region de Murcia'")
+
 	Estoy matriculado en el primer curso del **Grado Superior de Desarrollo de Aplicaciones WEB** tambien conocido por sus siglas *DAW*
 - ## 🎓 Estas son las **Asignaturas** que hay en **Plan de Estudios 2024-2025** en el primer curso de *DAW* 
 
@@ -17,7 +17,7 @@
 	|Entornos de Desarrollo|Itineraio Personal para la Empleabilidad|
 	|Inglés Profesional|Digitalización Aplicada a los Sectores Productivos|
 	
-	[![más información](/image/todofp.jpg)](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html "página de DAW en todofp.es")
+	[![más información](./image/todofp.jpg)](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html "página de DAW en todofp.es")
 	
 	
 	
