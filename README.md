@@ -1,3 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 400 100" fill="darkgrey">
+  <circle cx="200" cy="50" r="120" fill="black"/>
+  <text x="50%" y="50%" font-family="Arial" font-size="48" fill="light" text-anchor="middle" alignment-baseline="middle">emgh7453</text>
+</svg>
+
+
+
+
+
 # Mi primer perfil en GitHub by EMGH7453
 ---
 
