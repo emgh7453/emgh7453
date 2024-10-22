@@ -9,7 +9,7 @@
 	[![Region de Murcia](./images/regionmurcia.jpg)](https://www.google.es/maps/place/Regi%C3%B3n+de+Murcia,+Murcia/@38.0400936,-3.996701,8z/data=!3m1!4b1!4m6!3m5!1s0xd631a7cd794aecd:0x14ce33f54754d822!8m2!3d38.1398141!4d-1.366216!16zL20vMGo0eHo?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D "Enlace Google Maps 'Region de Murcia'")
 
 	Estoy matriculado en el primer curso del **Grado Superior de Desarrollo de Aplicaciones WEB** , en modalidad **~~Semi-Presencial~~** OnLine , tambien conocido por sus siglas *DAW*
-- ## ?? Estas son las **Asignaturas** que hay en **Plan de Estudios 2024-2025** en el primer curso de *DAW* 
+- ## 📚 Estas son las **Asignaturas** que hay en **Plan de Estudios 2024-2025** en el primer curso de *DAW* 
 
 | Asignaturas 1º DAW | Curso Académico 2024/25 |
 |---------------------|------------------------|
@@ -35,7 +35,7 @@
 	[![Esquema de Cursos](./images/cursosenmarkmap.jpg)](./images/markmap.svg)
 	[![markmap](./images/logo_markmap.jpg)](https://markmap.js.org)
 	
-- 💻 ??? En este curso vamos a aprender a usar
+-  ## 💻 En este curso vamos a aprender a usar
 
 	La herramienta que vamos a usar como **E**ntorno de **D**esarrollo **I***ntegrado o [*IDE*](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado "Wikipedia 'IDE'") sus siglas en Inglés va a ser:
 	
