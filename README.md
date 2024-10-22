@@ -1,18 +1,6 @@
-
-
-
-
-
-
 # Mi primer perfil en GitHub by EMGH7453
 ---
-
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 400 100" fill="darkgrey">
-  <circle cx="200" cy="50" r="120" fill="black"/>
-  <text x="50%" y="50%" font-family="Arial" font-size="48" fill="light" text-anchor="middle" alignment-baseline="middle">emgh7453</text>
-</svg>
-
-- ## 👋 Quien soy...
+ - ## 👋 Quien soy...
 
 	Soy  un estudiante del [IES "Los Albares de Cieza"](https://www.ieslosalbares.es/  "WEB IES Los Albares de Cieza") es su extensión [CIFP "La Conservera"](https://sites.google.com/view/fplaconservera/ies-los-albares-de-cieza?authuser=0 "Web CIFP La Conservera")
 	,situado la localidad de Cieza que pertenece a la Region de Murcia
