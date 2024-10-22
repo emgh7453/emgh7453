@@ -37,7 +37,7 @@
 	
 -  ## 💻 En este curso vamos a aprender a usar
 
-	La herramienta que vamos a usar como **E**ntorno de **D**esarrollo **I***ntegrado o [*IDE*](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado "Wikipedia 'IDE'") sus siglas en Inglés va a ser:
+	La herramienta que vamos a usar como **E**ntorno de **D**esarrollo **I**ntegrado o [*IDE*](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado "Wikipedia 'IDE'") sus siglas en Inglés va a ser:
 	
 
 |[![IntelliJIDEA](./images/Intellij_idea.jpg)](https://www.jetbrains.com/es-es/idea/)|
